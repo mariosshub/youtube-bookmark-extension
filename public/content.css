@@ -1,0 +1,15 @@
+.bookmark-btn {
+    position: relative !important;
+    right: 5px !important;
+    bottom: 5px !important;
+    width: 36px !important;
+    height: 36px !important;
+}
+
+.ytp-small-mode .ytp-chrome-controls .bookmark-btn {
+    position: relative !important;
+    right: 5px !important;
+    bottom: 7px !important;
+    width: 20px !important;
+    height: 20px !important;
+}

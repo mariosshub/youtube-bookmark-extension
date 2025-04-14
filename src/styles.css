@@ -1,0 +1,24 @@
+:root {
+    --text-color: #213547;
+    --bg-color: #fffffff5;
+    --bookmark-bg-color: #d3dbe7;
+    --bookmark-focused-color: #8f9398;
+    --play-btn: #2d2ddb;
+    --delete-btn: red;
+    --sidenav-bg-color: #f3f3f3;
+    --sidenav-btn-color: #4c4b4b;
+    --sidenav-btn-hover-color: #111;
+}
+
+/* dark theme */
+[data-theme='dark'] {
+    --text-color: #f1f5f8;
+    --bg-color: #242424;
+    --bookmark-bg-color: #4c4f53;
+    --bookmark-focused-color: #8f9398;
+    --play-btn: #5151d6;
+    --delete-btn: rgb(247, 70, 70);
+    --sidenav-bg-color: #141313;
+    --sidenav-btn-color: #797676;
+    --sidenav-btn-hover-color: #f1f1f1;
+}
